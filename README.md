@@ -15,7 +15,7 @@ You will receive an email if any of these three steps fail.
 
 Extract [Epitech-Github-Actions-Haskell](https://github.com/xschahl/Epitech-Github-Actions-Haskell) repository in your Epitech Project.
 ```
-git clone https://github.com/xschahl/Epitech-Github-Actions-Haskell
+git clone https://github.com/xschahl/Epitech-Github-Action-Haskell.git
 mv Epitech-Github-Actions-Haskell/.github .
 rm -rf Epitech-Github-Actions-Haskell
 ```
